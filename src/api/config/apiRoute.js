@@ -1,0 +1,11 @@
+export const userPath = `/users`
+export const userSave = `/user/`
+export const appPath = `/v2/app`
+export const userLogin = `/Auth/login`
+export const rolePath = `/roles`
+export const roleSave = `/roles`
+export const dispatchAll = `/despacho/all`
+export const inquiryPath = `/encuesta`
+export const evidencePath = `/evidencia`
+export const representativePath = `/representante`
+export const warehousePath = `/Bodega`
